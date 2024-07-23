@@ -1,4 +1,4 @@
-package even;
+
 import java.util.Scanner;
 
 public class Evenodd {
