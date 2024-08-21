@@ -1,4 +1,4 @@
-package even;
+package WEEK1;
 import java.util.Scanner;
 
 public class Evenodd {
