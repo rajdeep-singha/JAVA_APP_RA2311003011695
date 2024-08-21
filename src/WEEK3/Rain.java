@@ -20,7 +20,7 @@ class Rectangle {
         return 2 * (width + height);
     }
 }
-
+// hi
 public class Rain {
     public static void main(String[] args) {
         // Creating a Rectangle object
